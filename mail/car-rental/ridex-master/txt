@@ -1,0 +1,2 @@
+INSERT INTO users (username, pwd, email) VALUES ('suraj', 'suraj123', 'suraj@gmail.com');
+INSERT INTO comments(username, comment_text) VALUES ('ram','i like very much');
